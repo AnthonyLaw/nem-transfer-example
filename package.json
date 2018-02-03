@@ -1,0 +1,21 @@
+{
+  "name": "nem-transfer-example",
+  "version": "1.0.0",
+  "description": "Nem Blockchain - Xem and mosaic transfer example.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.js localhost 8080 app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyLaw/nem-transfer-example.git"
+  },
+  "keywords": ["nem", "nem-sdk"],
+  "author": "Anthony Law <yc-law1015@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nem-sdk": "^1.6.2"
+  }
+}
