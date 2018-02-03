@@ -46,8 +46,4 @@ var neededDefinition = nem.utils.helpers.searchMosaicDefinitionArray(res.data, [
 ]);
 ```
 
-## License & Code of Conduct
-
-[MIT License][license]
-
 [nem-sdk]: https://github.com/QuantumMechanics/NEM-sdk
